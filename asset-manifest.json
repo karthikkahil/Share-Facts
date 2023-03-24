@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/share_facts/static/css/main.c360ca0d.css",
+    "main.js": "/share_facts/static/js/main.2867fed4.js",
+    "index.html": "/share_facts/index.html",
+    "main.c360ca0d.css.map": "/share_facts/static/css/main.c360ca0d.css.map",
+    "main.2867fed4.js.map": "/share_facts/static/js/main.2867fed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c360ca0d.css",
+    "static/js/main.2867fed4.js"
+  ]
+}
